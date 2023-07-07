@@ -5,6 +5,8 @@ books/解像度を上げる*
 
 PostgreSQL/
 
+Java/SpringBoot/SpringBootActuator.md
+
 DB設計*
 
 Docker*
@@ -13,3 +15,6 @@ Docker*
 
 ドメイン駆動設計*
 
+スキル定義/
+
+network.md
